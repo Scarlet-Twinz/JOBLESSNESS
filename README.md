@@ -20,3 +20,8 @@ Then open `http://localhost:8000`.
 ## Live Website
 
 👉 [Open Joblessness](https://scarlet-twinz.github.io/JOBLESSNESS/)
+## License
+
+MIT License.
+
+See [LICENSE](LICENSE) for the full license text.
