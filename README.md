@@ -1,6 +1,6 @@
-# OmniCommerce Dashboard Prototype
+# Commerce Dashboard Prototype
 
-A static HTML dashboard prototype for exploring a commerce-oriented business interface.
+This repository is currently named `JOBLESSNESS`, while the page itself is branded OmniCommerce. It contains a static HTML dashboard prototype for exploring a commerce-oriented business interface. It is retained as a demonstration project, not a live employment service or production commerce platform.
 
 > **Project status:** Frontend demonstration only. This repository does not represent a live commerce service, payment processor, or production business platform.
 
