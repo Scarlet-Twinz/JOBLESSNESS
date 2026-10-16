@@ -1,27 +1,35 @@
-# Joblessness
+# OmniCommerce Dashboard Prototype
 
-A simple HTML website project.
+A static HTML dashboard prototype for exploring a commerce-oriented business interface.
 
-## Clone and run locally
+> **Project status:** Frontend demonstration only. This repository does not represent a live commerce service, payment processor, or production business platform.
+
+## Run locally
 
 ```bash
 git clone https://github.com/Scarlet-Twinz/JOBLESSNESS.git
 cd JOBLESSNESS
-```
-
-Open the main HTML file in a browser, or use a simple static server such as:
-
-```bash
 python -m http.server 8000
 ```
 
-Then open `http://localhost:8000`.
+Open [http://localhost:8000](http://localhost:8000) in your browser.
 
-## Live Website
+You can also open `index.html` directly. No package installation or build step is required.
 
-👉 [Open Joblessness](https://scarlet-twinz.github.io/JOBLESSNESS/)
+## Live preview
+
+[Open the static dashboard](https://scarlet-twinz.github.io/JOBLESSNESS/)
+
+## Scope and limitations
+
+- Static HTML, CSS, and browser-side interactions.
+- Demonstrates a dashboard-style user interface.
+- No production backend, persistent server-side business data, or payment processing is provided by this repository.
+
 ## License
 
-MIT License.
+MIT License. See [LICENSE](LICENSE).
 
-See [LICENSE](LICENSE) for the full license text.
+## Repository
+
+[Scarlet-Twinz/JOBLESSNESS](https://github.com/Scarlet-Twinz/JOBLESSNESS)
